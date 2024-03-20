@@ -1,2 +1,2 @@
-# Text-editor
-This setup is for editing the text
+# Text Editor application for pc
+This is the application to edit the text.
